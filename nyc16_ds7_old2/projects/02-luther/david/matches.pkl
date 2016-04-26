@@ -1,0 +1,84 @@
+(lp0
+S'the help'
+p1
+aS'the lincoln lawyer'
+p2
+aS'one day'
+p3
+aS'something borrowed'
+p4
+aS'water for elephants'
+p5
+aS'abraham lincoln: vampire hunter'
+p6
+aS'life of pi'
+p7
+aS'the lucky one'
+p8
+aS'one for the money'
+p9
+aS'the silver linings playbook'
+p10
+aS'admission'
+p11
+aS"ender's game"
+p12
+aS'labor day'
+p13
+aS'safe haven'
+p14
+aS'addicted'
+p15
+aS'flowers in the attic'
+p16
+aS'gone girl'
+p17
+aS'this is where i leave you'
+p18
+aS"winter's tale"
+p19
+aS'dark places'
+p20
+aS'fallen'
+p21
+aS'the light between oceans'
+p22
+aS'the longest ride'
+p23
+aS'the martian'
+p24
+aS'room'
+p25
+aS'still alice'
+p26
+aS'the perks of being a wallflower'
+p27
+aS'shiver'
+p28
+aS'the book thief'
+p29
+aS'divergent'
+p30
+aS'the fault in our stars'
+p31
+aS'if i stay'
+p32
+aS'insurgent'
+p33
+aS'me and earl and the dying girl'
+p34
+aS'paper towns'
+p35
+aS'eclipse'
+p36
+aS'the hunter'
+p37
+aS'horns'
+p38
+aS'inherent vice'
+p39
+aS'cell'
+p40
+aS'our kind of traitor'
+p41
+a.

@@ -1,0 +1,1495 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+sS'_typ'
+p8
+S'dataframe'
+p9
+sS'_data'
+p10
+g0
+(cpandas.core.internals
+BlockManager
+p11
+g2
+Ntp12
+Rp13
+((lp14
+cpandas.core.index
+_new_Index
+p15
+(cpandas.core.index
+Index
+p16
+(dp17
+S'data'
+p18
+cnumpy.core.multiarray
+_reconstruct
+p19
+(cnumpy
+ndarray
+p20
+(I0
+tp21
+S'b'
+p22
+tp23
+Rp24
+(I1
+(I6
+tp25
+cnumpy
+dtype
+p26
+(S'O8'
+p27
+I0
+I1
+tp28
+Rp29
+(I3
+S'|'
+p30
+NNNI-1
+I-1
+I63
+tp31
+bI00
+(lp32
+S'Title'
+p33
+aS'Release_Date'
+p34
+aS'Runtime_min'
+p35
+aS'Rating'
+p36
+aS'Gross_Earnings'
+p37
+aS'Director'
+p38
+atp39
+bsS'name'
+p40
+Nstp41
+Rp42
+ag15
+(cpandas.core.index
+Int64Index
+p43
+(dp44
+g18
+g19
+(g20
+(I0
+tp45
+g22
+tp46
+Rp47
+(I1
+(I100
+tp48
+g26
+(S'i8'
+p49
+I0
+I1
+tp50
+Rp51
+(I3
+S'<'
+p52
+NNNI-1
+I-1
+I0
+tp53
+bI00
+S'\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\t\x00\x00\x00\x00\x00\x00\x00\n\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x0c\x00\x00\x00\x00\x00\x00\x00\r\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x00\x00\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x15\x00\x00\x00\x00\x00\x00\x00\x16\x00\x00\x00\x00\x00\x00\x00\x17\x00\x00\x00\x00\x00\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x19\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x00\x00\x00\x00\x00\x1b\x00\x00\x00\x00\x00\x00\x00\x1c\x00\x00\x00\x00\x00\x00\x00\x1d\x00\x00\x00\x00\x00\x00\x00\x1e\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x00\x00\x00\x00\x00\x00 \x00\x00\x00\x00\x00\x00\x00!\x00\x00\x00\x00\x00\x00\x00"\x00\x00\x00\x00\x00\x00\x00#\x00\x00\x00\x00\x00\x00\x00$\x00\x00\x00\x00\x00\x00\x00%\x00\x00\x00\x00\x00\x00\x00&\x00\x00\x00\x00\x00\x00\x00\'\x00\x00\x00\x00\x00\x00\x00(\x00\x00\x00\x00\x00\x00\x00)\x00\x00\x00\x00\x00\x00\x00*\x00\x00\x00\x00\x00\x00\x00+\x00\x00\x00\x00\x00\x00\x00,\x00\x00\x00\x00\x00\x00\x00-\x00\x00\x00\x00\x00\x00\x00.\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x000\x00\x00\x00\x00\x00\x00\x001\x00\x00\x00\x00\x00\x00\x002\x00\x00\x00\x00\x00\x00\x003\x00\x00\x00\x00\x00\x00\x004\x00\x00\x00\x00\x00\x00\x005\x00\x00\x00\x00\x00\x00\x006\x00\x00\x00\x00\x00\x00\x007\x00\x00\x00\x00\x00\x00\x008\x00\x00\x00\x00\x00\x00\x009\x00\x00\x00\x00\x00\x00\x00:\x00\x00\x00\x00\x00\x00\x00;\x00\x00\x00\x00\x00\x00\x00<\x00\x00\x00\x00\x00\x00\x00=\x00\x00\x00\x00\x00\x00\x00>\x00\x00\x00\x00\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x00@\x00\x00\x00\x00\x00\x00\x00A\x00\x00\x00\x00\x00\x00\x00B\x00\x00\x00\x00\x00\x00\x00C\x00\x00\x00\x00\x00\x00\x00D\x00\x00\x00\x00\x00\x00\x00E\x00\x00\x00\x00\x00\x00\x00F\x00\x00\x00\x00\x00\x00\x00G\x00\x00\x00\x00\x00\x00\x00H\x00\x00\x00\x00\x00\x00\x00I\x00\x00\x00\x00\x00\x00\x00J\x00\x00\x00\x00\x00\x00\x00K\x00\x00\x00\x00\x00\x00\x00L\x00\x00\x00\x00\x00\x00\x00M\x00\x00\x00\x00\x00\x00\x00N\x00\x00\x00\x00\x00\x00\x00O\x00\x00\x00\x00\x00\x00\x00P\x00\x00\x00\x00\x00\x00\x00Q\x00\x00\x00\x00\x00\x00\x00R\x00\x00\x00\x00\x00\x00\x00S\x00\x00\x00\x00\x00\x00\x00T\x00\x00\x00\x00\x00\x00\x00U\x00\x00\x00\x00\x00\x00\x00V\x00\x00\x00\x00\x00\x00\x00W\x00\x00\x00\x00\x00\x00\x00X\x00\x00\x00\x00\x00\x00\x00Y\x00\x00\x00\x00\x00\x00\x00Z\x00\x00\x00\x00\x00\x00\x00[\x00\x00\x00\x00\x00\x00\x00\\\x00\x00\x00\x00\x00\x00\x00]\x00\x00\x00\x00\x00\x00\x00^\x00\x00\x00\x00\x00\x00\x00_\x00\x00\x00\x00\x00\x00\x00`\x00\x00\x00\x00\x00\x00\x00a\x00\x00\x00\x00\x00\x00\x00b\x00\x00\x00\x00\x00\x00\x00c\x00\x00\x00\x00\x00\x00\x00d\x00\x00\x00\x00\x00\x00\x00'
+p54
+tp55
+bsg40
+Nstp56
+Rp57
+a(lp58
+g19
+(g20
+(I0
+tp59
+g22
+tp60
+Rp61
+(I1
+(I6
+I100
+tp62
+g29
+I00
+(lp63
+VThe Hunger Games: Catching Fire
+p64
+aVIron Man 3
+p65
+aVFrozen
+p66
+aVDespicable Me 2
+p67
+aVMan of Steel
+p68
+aVGravity
+p69
+aVMonsters University
+p70
+aVThe Hobbit: The Desolation of Smaug
+p71
+aVFast & Furious 6
+p72
+aVOz The Great and Powerful
+p73
+aVStar Trek Into Darkness
+p74
+aVThor: The Dark World
+p75
+aVWorld War Z
+p76
+aVThe Croods
+p77
+aVThe Heat
+p78
+aVWe're the Millers
+p79
+aVAmerican Hustle
+p80
+aVThe Great Gatsby
+p81
+aVThe Conjuring
+p82
+aVIdentity Thief
+p83
+aVGrown Ups 2
+p84
+aVThe Wolverine
+p85
+aVAnchorman 2: The Legend Continues
+p86
+aVLone Survivor
+p87
+aVG.I. Joe: Retaliation
+p88
+aVCloudy with a Chance of Meatballs 2
+p89
+aVNow You See Me
+p90
+aVThe Wolf of Wall Street
+p91
+aVLee Daniels' The Butler
+p92
+aVThe Hangover Part III
+p93
+aVEpic
+p94
+aVCaptain Phillips
+p95
+aVJackass Presents: Bad Grandpa
+p96
+aVPacific Rim
+p97
+aVThis is the End
+p98
+aVOlympus Has Fallen
+p99
+aV42
+p100
+aVElysium
+p101
+aVPlanes
+p102
+aVThe Lone Ranger
+p103
+aVOblivion
+p104
+aVInsidious Chapter 2
+p105
+aVSaving Mr. Banks
+p106
+aVTurbo
+p107
+aV2 Guns
+p108
+aVWhite House Down
+p109
+aVMama
+p110
+aVSafe Haven
+p111
+aVThe Smurfs 2
+p112
+aVThe Best Man Holiday
+p113
+aVPercy Jackson: Sea of Monsters
+p114
+aVA Good Day to Die Hard
+p115
+aVWarm Bodies
+p116
+aVJack the Giant Slayer
+p117
+aVThe Purge
+p118
+aVLast Vegas
+p119
+aVEnder's Game
+p120
+aVPrisoners
+p121
+aVAfter Earth
+p122
+aVThe Secret Life of Walter Mitty
+p123
+aVEscape From Planet Earth
+p124
+aV12 Years a Slave
+p125
+aVFree Birds
+p126
+aVHansel and Gretel: Witch Hunters
+p127
+aVEvil Dead
+p128
+aVRed 2
+p129
+aVTyler Perry's A Madea Christmas
+p130
+aVTyler Perry's Temptation: Confessions of a Marriage Counselor
+p131
+aVThe Call
+p132
+aVPain and Gain
+p133
+aVGangster Squad
+p134
+aVJurassic Park 3D
+p135
+aVThe Internship
+p136
+aVInstructions Not Included
+p137
+aVSnitch
+p138
+aVRiddick
+p139
+aVA Haunted House
+p140
+aV47 Ronin
+p141
+aVAugust: Osage County
+p142
+aVPhilomena
+p143
+aVThe Family
+p144
+aVWalking with Dinosaurs
+p145
+aVCarrie
+p146
+aVTexas Chainsaw 3D
+p147
+aVR.I.P.D.
+p148
+aVBlue Jasmine
+p149
+aVKevin Hart: Let Me Explain
+p150
+aVSide Effects
+p151
+aVScary Movie 5
+p152
+aVThe Mortal Instruments: City of Bones
+p153
+aVDelivery Man
+p154
+aVGrudge Match
+p155
+aVOne Direction: This is Us
+p156
+aVKick-Ass 2
+p157
+aVDallas Buyers Club
+p158
+aVRush
+p159
+aVThe Host
+p160
+aVThe World's End
+p161
+aV21 and Over
+p162
+aVHer
+p163
+acdatetime
+datetime
+p164
+(S'\x07\xdd\x0b\x16\x00\x00\x00\x00\x00\x00'
+p165
+tp166
+Rp167
+ag164
+(S'\x07\xdd\x05\x03\x00\x00\x00\x00\x00\x00'
+p168
+tp169
+Rp170
+ag164
+(S'\x07\xdd\x0b\x16\x00\x00\x00\x00\x00\x00'
+p171
+tp172
+Rp173
+ag164
+(S'\x07\xdd\x07\x03\x00\x00\x00\x00\x00\x00'
+p174
+tp175
+Rp176
+ag164
+(S'\x07\xdd\x06\x0e\x00\x00\x00\x00\x00\x00'
+p177
+tp178
+Rp179
+ag164
+(S'\x07\xdd\n\x04\x00\x00\x00\x00\x00\x00'
+p180
+tp181
+Rp182
+ag164
+(S'\x07\xdd\x06\x15\x00\x00\x00\x00\x00\x00'
+p183
+tp184
+Rp185
+ag164
+(S'\x07\xdd\x0c\r\x00\x00\x00\x00\x00\x00'
+p186
+tp187
+Rp188
+ag164
+(S'\x07\xdd\x05\x18\x00\x00\x00\x00\x00\x00'
+p189
+tp190
+Rp191
+ag164
+(S'\x07\xdd\x03\x08\x00\x00\x00\x00\x00\x00'
+p192
+tp193
+Rp194
+ag164
+(S'\x07\xdd\x05\x10\x00\x00\x00\x00\x00\x00'
+p195
+tp196
+Rp197
+ag164
+(S'\x07\xdd\x0b\x08\x00\x00\x00\x00\x00\x00'
+p198
+tp199
+Rp200
+ag164
+(S'\x07\xdd\x06\x15\x00\x00\x00\x00\x00\x00'
+p201
+tp202
+Rp203
+ag164
+(S'\x07\xdd\x03\x16\x00\x00\x00\x00\x00\x00'
+p204
+tp205
+Rp206
+ag164
+(S'\x07\xdd\x06\x1c\x00\x00\x00\x00\x00\x00'
+p207
+tp208
+Rp209
+ag164
+(S'\x07\xdd\x08\x07\x00\x00\x00\x00\x00\x00'
+p210
+tp211
+Rp212
+ag164
+(S'\x07\xdd\x0c\r\x00\x00\x00\x00\x00\x00'
+p213
+tp214
+Rp215
+ag164
+(S'\x07\xdd\x05\n\x00\x00\x00\x00\x00\x00'
+p216
+tp217
+Rp218
+ag164
+(S'\x07\xdd\x07\x13\x00\x00\x00\x00\x00\x00'
+p219
+tp220
+Rp221
+ag164
+(S'\x07\xdd\x02\x08\x00\x00\x00\x00\x00\x00'
+p222
+tp223
+Rp224
+ag164
+(S'\x07\xdd\x07\x0c\x00\x00\x00\x00\x00\x00'
+p225
+tp226
+Rp227
+ag164
+(S'\x07\xdd\x07\x1a\x00\x00\x00\x00\x00\x00'
+p228
+tp229
+Rp230
+ag164
+(S'\x07\xdd\x0c\x12\x00\x00\x00\x00\x00\x00'
+p231
+tp232
+Rp233
+ag164
+(S'\x07\xdd\x0c\x19\x00\x00\x00\x00\x00\x00'
+p234
+tp235
+Rp236
+ag164
+(S'\x07\xdd\x03\x1c\x00\x00\x00\x00\x00\x00'
+p237
+tp238
+Rp239
+ag164
+(S'\x07\xdd\t\x1b\x00\x00\x00\x00\x00\x00'
+p240
+tp241
+Rp242
+ag164
+(S'\x07\xdd\x05\x1f\x00\x00\x00\x00\x00\x00'
+p243
+tp244
+Rp245
+ag164
+(S'\x07\xdd\x0c\x19\x00\x00\x00\x00\x00\x00'
+p246
+tp247
+Rp248
+ag164
+(S'\x07\xdd\x08\x10\x00\x00\x00\x00\x00\x00'
+p249
+tp250
+Rp251
+ag164
+(S'\x07\xdd\x05\x17\x00\x00\x00\x00\x00\x00'
+p252
+tp253
+Rp254
+ag164
+(S'\x07\xdd\x05\x18\x00\x00\x00\x00\x00\x00'
+p255
+tp256
+Rp257
+ag164
+(S'\x07\xdd\n\x0b\x00\x00\x00\x00\x00\x00'
+p258
+tp259
+Rp260
+ag164
+(S'\x07\xdd\n\x19\x00\x00\x00\x00\x00\x00'
+p261
+tp262
+Rp263
+ag164
+(S'\x07\xdd\x07\x0c\x00\x00\x00\x00\x00\x00'
+p264
+tp265
+Rp266
+ag164
+(S'\x07\xdd\x06\x0c\x00\x00\x00\x00\x00\x00'
+p267
+tp268
+Rp269
+ag164
+(S'\x07\xdd\x03\x16\x00\x00\x00\x00\x00\x00'
+p270
+tp271
+Rp272
+ag164
+(S'\x07\xdd\x04\x0c\x00\x00\x00\x00\x00\x00'
+p273
+tp274
+Rp275
+ag164
+(S'\x07\xdd\x08\t\x00\x00\x00\x00\x00\x00'
+p276
+tp277
+Rp278
+ag164
+(S'\x07\xdd\x08\t\x00\x00\x00\x00\x00\x00'
+p279
+tp280
+Rp281
+ag164
+(S'\x07\xdd\x07\x03\x00\x00\x00\x00\x00\x00'
+p282
+tp283
+Rp284
+ag164
+(S'\x07\xdd\x04\x13\x00\x00\x00\x00\x00\x00'
+p285
+tp286
+Rp287
+ag164
+(S'\x07\xdd\t\r\x00\x00\x00\x00\x00\x00'
+p288
+tp289
+Rp290
+ag164
+(S'\x07\xdd\x0c\r\x00\x00\x00\x00\x00\x00'
+p291
+tp292
+Rp293
+ag164
+(S'\x07\xdd\x07\x11\x00\x00\x00\x00\x00\x00'
+p294
+tp295
+Rp296
+ag164
+(S'\x07\xdd\x08\x02\x00\x00\x00\x00\x00\x00'
+p297
+tp298
+Rp299
+ag164
+(S'\x07\xdd\x06\x1c\x00\x00\x00\x00\x00\x00'
+p300
+tp301
+Rp302
+ag164
+(S'\x07\xdd\x01\x12\x00\x00\x00\x00\x00\x00'
+p303
+tp304
+Rp305
+ag164
+(S'\x07\xdd\x02\x0e\x00\x00\x00\x00\x00\x00'
+p306
+tp307
+Rp308
+ag164
+(S'\x07\xdd\x07\x1f\x00\x00\x00\x00\x00\x00'
+p309
+tp310
+Rp311
+ag164
+(S'\x07\xdd\x0b\x0f\x00\x00\x00\x00\x00\x00'
+p312
+tp313
+Rp314
+ag164
+(S'\x07\xdd\x08\x07\x00\x00\x00\x00\x00\x00'
+p315
+tp316
+Rp317
+ag164
+(S'\x07\xdd\x02\x0e\x00\x00\x00\x00\x00\x00'
+p318
+tp319
+Rp320
+ag164
+(S'\x07\xdd\x02\x01\x00\x00\x00\x00\x00\x00'
+p321
+tp322
+Rp323
+ag164
+(S'\x07\xdd\x03\x01\x00\x00\x00\x00\x00\x00'
+p324
+tp325
+Rp326
+ag164
+(S'\x07\xdd\x06\x07\x00\x00\x00\x00\x00\x00'
+p327
+tp328
+Rp329
+ag164
+(S'\x07\xdd\x0b\x01\x00\x00\x00\x00\x00\x00'
+p330
+tp331
+Rp332
+ag164
+(S'\x07\xdd\x0b\x01\x00\x00\x00\x00\x00\x00'
+p333
+tp334
+Rp335
+ag164
+(S'\x07\xdd\t\x14\x00\x00\x00\x00\x00\x00'
+p336
+tp337
+Rp338
+ag164
+(S'\x07\xdd\x05\x1f\x00\x00\x00\x00\x00\x00'
+p339
+tp340
+Rp341
+ag164
+(S'\x07\xdd\x0c\x19\x00\x00\x00\x00\x00\x00'
+p342
+tp343
+Rp344
+ag164
+(S'\x07\xdd\x02\x0f\x00\x00\x00\x00\x00\x00'
+p345
+tp346
+Rp347
+ag164
+(S'\x07\xdd\n\x12\x00\x00\x00\x00\x00\x00'
+p348
+tp349
+Rp350
+ag164
+(S'\x07\xdd\x0b\x01\x00\x00\x00\x00\x00\x00'
+p351
+tp352
+Rp353
+ag164
+(S'\x07\xdd\x01\x19\x00\x00\x00\x00\x00\x00'
+p354
+tp355
+Rp356
+ag164
+(S'\x07\xdd\x04\x05\x00\x00\x00\x00\x00\x00'
+p357
+tp358
+Rp359
+ag164
+(S'\x07\xdd\x07\x13\x00\x00\x00\x00\x00\x00'
+p360
+tp361
+Rp362
+ag164
+(S'\x07\xdd\x0c\r\x00\x00\x00\x00\x00\x00'
+p363
+tp364
+Rp365
+ag164
+(S'\x07\xdd\x03\x1d\x00\x00\x00\x00\x00\x00'
+p366
+tp367
+Rp368
+ag164
+(S'\x07\xdd\x03\x0f\x00\x00\x00\x00\x00\x00'
+p369
+tp370
+Rp371
+ag164
+(S'\x07\xdd\x04\x1a\x00\x00\x00\x00\x00\x00'
+p372
+tp373
+Rp374
+ag164
+(S'\x07\xdd\x01\x0b\x00\x00\x00\x00\x00\x00'
+p375
+tp376
+Rp377
+ag164
+(S'\x07\xdd\x04\x05\x00\x00\x00\x00\x00\x00'
+p378
+tp379
+Rp380
+ag164
+(S'\x07\xdd\x06\x07\x00\x00\x00\x00\x00\x00'
+p381
+tp382
+Rp383
+ag164
+(S'\x07\xdd\x08\x1e\x00\x00\x00\x00\x00\x00'
+p384
+tp385
+Rp386
+ag164
+(S'\x07\xdd\x02\x16\x00\x00\x00\x00\x00\x00'
+p387
+tp388
+Rp389
+ag164
+(S'\x07\xdd\t\x06\x00\x00\x00\x00\x00\x00'
+p390
+tp391
+Rp392
+ag164
+(S'\x07\xdd\x01\x0b\x00\x00\x00\x00\x00\x00'
+p393
+tp394
+Rp395
+ag164
+(S'\x07\xdd\x0c\x19\x00\x00\x00\x00\x00\x00'
+p396
+tp397
+Rp398
+ag164
+(S'\x07\xdd\x0c\x1b\x00\x00\x00\x00\x00\x00'
+p399
+tp400
+Rp401
+ag164
+(S'\x07\xdd\x0b\x16\x00\x00\x00\x00\x00\x00'
+p402
+tp403
+Rp404
+ag164
+(S'\x07\xdd\t\r\x00\x00\x00\x00\x00\x00'
+p405
+tp406
+Rp407
+ag164
+(S'\x07\xdd\x0c\x14\x00\x00\x00\x00\x00\x00'
+p408
+tp409
+Rp410
+ag164
+(S'\x07\xdd\n\x12\x00\x00\x00\x00\x00\x00'
+p411
+tp412
+Rp413
+ag164
+(S'\x07\xdd\x01\x04\x00\x00\x00\x00\x00\x00'
+p414
+tp415
+Rp416
+ag164
+(S'\x07\xdd\x07\x13\x00\x00\x00\x00\x00\x00'
+p417
+tp418
+Rp419
+ag164
+(S'\x07\xdd\x07\x1a\x00\x00\x00\x00\x00\x00'
+p420
+tp421
+Rp422
+ag164
+(S'\x07\xdd\x07\x03\x00\x00\x00\x00\x00\x00'
+p423
+tp424
+Rp425
+ag164
+(S'\x07\xdd\x02\x08\x00\x00\x00\x00\x00\x00'
+p426
+tp427
+Rp428
+ag164
+(S'\x07\xdd\x04\x0c\x00\x00\x00\x00\x00\x00'
+p429
+tp430
+Rp431
+ag164
+(S'\x07\xdd\x08\x15\x00\x00\x00\x00\x00\x00'
+p432
+tp433
+Rp434
+ag164
+(S'\x07\xdd\x0b\x16\x00\x00\x00\x00\x00\x00'
+p435
+tp436
+Rp437
+ag164
+(S'\x07\xdd\x0c\x19\x00\x00\x00\x00\x00\x00'
+p438
+tp439
+Rp440
+ag164
+(S'\x07\xdd\x08\x1e\x00\x00\x00\x00\x00\x00'
+p441
+tp442
+Rp443
+ag164
+(S'\x07\xdd\x08\x10\x00\x00\x00\x00\x00\x00'
+p444
+tp445
+Rp446
+ag164
+(S'\x07\xdd\x0b\x01\x00\x00\x00\x00\x00\x00'
+p447
+tp448
+Rp449
+ag164
+(S'\x07\xdd\t\x14\x00\x00\x00\x00\x00\x00'
+p450
+tp451
+Rp452
+ag164
+(S'\x07\xdd\x03\x1d\x00\x00\x00\x00\x00\x00'
+p453
+tp454
+Rp455
+ag164
+(S'\x07\xdd\x08\x17\x00\x00\x00\x00\x00\x00'
+p456
+tp457
+Rp458
+ag164
+(S'\x07\xdd\x03\x01\x00\x00\x00\x00\x00\x00'
+p459
+tp460
+Rp461
+ag164
+(S'\x07\xdd\x0c\x12\x00\x00\x00\x00\x00\x00'
+p462
+tp463
+Rp464
+aI146
+aI129
+aI108
+aI98
+aI143
+aI91
+aI107
+aI161
+aI130
+aI127
+aI123
+aI120
+aI116
+aI98
+aI117
+aI110
+aI138
+aI143
+aI112
+aI111
+aI101
+aI126
+aI119
+aI121
+aI99
+aI95
+aI116
+aI180
+aI132
+aI100
+aI102
+aI134
+aI93
+aI131
+aI107
+aI120
+aI128
+aI109
+aI92
+aI149
+aI125
+aI105
+aI120
+aI96
+aI109
+aI137
+aI100
+aI115
+aI105
+aI122
+aI106
+aI97
+aI97
+aI114
+aI85
+aI90
+aI114
+aI146
+aI100
+aI114
+aI89
+aI133
+aI90
+aI88
+aI91
+aI116
+aI105
+aI111
+aI95
+aI129
+aI113
+aI127
+aI119
+aI115
+aI112
+aI119
+aI80
+aI127
+aI130
+aI95
+aI112
+aI87
+aI92
+aI92
+aI96
+aI98
+aI75
+aI106
+aI85
+aI120
+aI105
+aI113
+aI92
+aI103
+aI117
+aI123
+aI125
+aI109
+aI93
+aI120
+aVPG-13
+p465
+aVPG-13
+p466
+aVPG
+p467
+aVPG
+p468
+aVPG-13
+p469
+aVPG-13
+p470
+aVG
+p471
+aVPG-13
+p472
+aVPG-13
+p473
+aVPG
+p474
+aVPG-13
+p475
+aVPG-13
+p476
+aVPG-13
+p477
+aVPG
+p478
+aVR
+p479
+aVR
+p480
+aVR
+p481
+aVPG-13
+p482
+aVR
+p483
+aVR
+p484
+aVPG-13
+p485
+aVPG-13
+p486
+aVPG-13
+p487
+aVR
+p488
+aVPG-13
+p489
+aVPG
+p490
+aVPG-13
+p491
+aVR
+p492
+aVPG-13
+p493
+aVR
+p494
+aVPG
+p495
+aVPG-13
+p496
+aVR
+p497
+aVPG-13
+p498
+aVR
+p499
+aVR
+p500
+aVPG-13
+p501
+aVR
+p502
+aVPG
+p503
+aVPG-13
+p504
+aVPG-13
+p505
+aVPG-13
+p506
+aVPG-13
+p507
+aVPG
+p508
+aVR
+p509
+aVPG-13
+p510
+aVPG-13
+p511
+aVPG-13
+p512
+aVPG
+p513
+aVR
+p514
+aVPG
+p515
+aVR
+p516
+aVPG-13
+p517
+aVPG-13
+p518
+aVR
+p519
+aVPG-13
+p520
+aVPG-13
+p521
+aVR
+p522
+aVPG-13
+p523
+aVPG
+p524
+aVPG
+p525
+aVR
+p526
+aVPG
+p527
+aVR
+p528
+aVR
+p529
+aVPG-13
+p530
+aVPG-13
+p531
+aVPG-13
+p532
+aVR
+p533
+aVR
+p534
+aVR
+p535
+aVPG-13
+p536
+aVPG-13
+p537
+aVPG-13
+p538
+aVPG-13
+p539
+aVR
+p540
+aVR
+p541
+aVPG-13
+p542
+aVR
+p543
+aVPG-13
+p544
+aVR
+p545
+aVPG
+p546
+aVR
+p547
+aVR
+p548
+aVPG-13
+p549
+aVPG-13
+p550
+aVR
+p551
+aVR
+p552
+aVPG-13
+p553
+aVPG-13
+p554
+aVPG-13
+p555
+aVPG-13
+p556
+aVPG
+p557
+aVR
+p558
+aVR
+p559
+aVR
+p560
+aVPG-13
+p561
+aVR
+p562
+aVR
+p563
+aVR
+p564
+aI424668047
+aI409013994
+aI400738009
+aI368061265
+aI291045518
+aI274092705
+aI268492764
+aI258366855
+aI238679850
+aI234911825
+aI228778661
+aI206362140
+aI202359711
+aI187168425
+aI159582188
+aI150394119
+aI150117807
+aI144840419
+aI137400141
+aI134506920
+aI133668525
+aI132556852
+aI125168368
+aI125095601
+aI122523060
+aI119793567
+aI117723989
+aI116900694
+aI116632095
+aI112200072
+aI107518682
+aI107100855
+aI102003019
+aI101802906
+aI101470202
+aI98925640
+aI95020213
+aI93050117
+aI90288712
+aI89302115
+aI89107235
+aI83586447
+aI83301580
+aI83028128
+aI75612460
+aI73103784
+aI71628180
+aI71349120
+aI71017784
+aI70525195
+aI68559554
+aI67349198
+aI66380662
+aI65187603
+aI64473115
+aI63914167
+aI61737191
+aI61002302
+aI60522097
+aI58236838
+aI57012977
+aI56671993
+aI55750480
+aI55703475
+aI54239856
+aI53262560
+aI52543354
+aI51975354
+aI51872378
+aI49875291
+aI46000903
+aI45385935
+aI44672764
+aI44467206
+aI42930462
+aI42025135
+aI40041683
+aI38362475
+aI37738810
+aI37709979
+aI36918811
+aI36076121
+aI35266619
+aI34341945
+aI33618855
+aI33405481
+aI32244051
+aI32172757
+aI32015787
+aI31165421
+aI30664106
+aI29807260
+aI28873374
+aI28795985
+aI27298285
+aI26947624
+aI26627201
+aI26004851
+aI25682380
+aI25568251
+aVFrancis Lawrence
+p565
+aVShane Black
+p566
+aVChris BuckJennifer Lee
+p567
+aVPierre CoffinChris Renaud
+p568
+aVZack Snyder
+p569
+aVAlfonso Cuaron
+p570
+aVDan Scanlon
+p571
+aVPeter Jackson
+p572
+aVJustin Lin
+p573
+aVSam Raimi
+p574
+aVJ.J. Abrams
+p575
+aVAlan Taylor
+p576
+aVMarc Forster
+p577
+aVKirk De MiccoChris Sanders
+p578
+aVPaul Feig
+p579
+aVRawson Marshall Thurber
+p580
+aVDavid O. Russell
+p581
+aVBaz Luhrmann
+p582
+aVJames Wan
+p583
+aVSeth Gordon
+p584
+aVDennis Dugan
+p585
+aVJames Mangold
+p586
+aVAdam McKay
+p587
+aVPeter Berg
+p588
+aVJon Chu
+p589
+aVJohn Francis DaleyJonathan M. GoldsteinErica Rivinoja
+p590
+aVLouis Leterrier
+p591
+aVMartin Scorsese
+p592
+aVLee Daniels
+p593
+aVTodd Phillips
+p594
+aVChris Wedge
+p595
+aVPaul Greengrass
+p596
+aVJeff Tremaine
+p597
+aVGuillermo del Toro
+p598
+aVEvan GoldbergSeth Rogen
+p599
+aVAntoine Fuqua
+p600
+aVBrian Helgeland
+p601
+aVNeill Blomkamp
+p602
+aVKlay Hall
+p603
+aVGore Verbinski
+p604
+aVJoseph Kosinski
+p605
+aVJames Wan
+p606
+aVJohn Lee Hancock
+p607
+aVDavid Soren
+p608
+aVBaltasar Kormakur
+p609
+aVRoland Emmerich
+p610
+aVAndres Muschietti
+p611
+aVLasse Hallstrom
+p612
+aVRaja Gosnell
+p613
+aVMalcolm D. Lee
+p614
+aVThor Freudenthal
+p615
+aVJohn Moore
+p616
+aVJonathan Levine
+p617
+aVBryan Singer
+p618
+aVJames DeMonaco
+p619
+aVJon Turteltaub
+p620
+aVGavin Hood
+p621
+aVDenis Villeneuve
+p622
+aVM. Night Shyamalan
+p623
+aVBen Stiller
+p624
+aVCal Brunker
+p625
+aVSteve McQueen (II)
+p626
+aVJimmy Hayward
+p627
+aVTommy Wirkola
+p628
+aVFede Alvarez
+p629
+aVDean Parisot
+p630
+aVTyler Perry
+p631
+aVTyler Perry
+p632
+aVBrad Anderson
+p633
+aVMichael Bay
+p634
+aVRuben Fleischer
+p635
+aNaVShawn Levy
+p636
+aVEugenio Derbez
+p637
+aVRic Roman Waugh
+p638
+aVDavid Twohy
+p639
+aVMichael Tiddes
+p640
+aVCarl Rinsch
+p641
+aVJohn Wells
+p642
+aVStephen Frears
+p643
+aVLuc Besson
+p644
+aVBarry CookNeil Nightingale
+p645
+aVKimberly Peirce
+p646
+aVJohn Luessenhop
+p647
+aVRobert Schwentke
+p648
+aVWoody Allen
+p649
+aVKevin Hart
+p650
+aVSteven Soderbergh
+p651
+aVMalcolm D. Lee
+p652
+aVHarald Zwart
+p653
+aVKen Scott
+p654
+aVPeter Segal
+p655
+aVMorgan Spurlock
+p656
+aVJeff Wadlow
+p657
+aVJean-Marc Vallee
+p658
+aVRon Howard
+p659
+aVAndrew Niccol
+p660
+aVEdgar Wright
+p661
+aVJon LucasScott Moore
+p662
+aVSpike Jonze
+p663
+atp664
+ba(lp665
+g15
+(g16
+(dp666
+g18
+g19
+(g20
+(I0
+tp667
+g22
+tp668
+Rp669
+(I1
+(I6
+tp670
+g29
+I00
+(lp671
+g33
+ag34
+ag35
+ag36
+ag37
+ag38
+atp672
+bsg40
+Nstp673
+Rp674
+a(dp675
+S'0.14.1'
+p676
+(dp677
+S'axes'
+p678
+g14
+sS'blocks'
+p679
+(lp680
+(dp681
+S'mgr_locs'
+p682
+c__builtin__
+slice
+p683
+(I0
+I6
+I1
+tp684
+Rp685
+sS'values'
+p686
+g61
+sasstp687
+bsb.

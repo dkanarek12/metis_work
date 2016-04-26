@@ -1,0 +1,31 @@
+,Movie_Title,Release_Date,Runtime_min,Rating,IMDB_Rating,Gross_Earnings,Book_Title,Author,AF_Bestseller,Print_Bestseller,Weeks_Before,Weeks_After,Total_Before,Total_After,IMDB_Squared,Gross_Squared
+16,Gone Girl,2014-10-03 00:00:00,145.0,R,8.1,167.767189,gone girl,gillian flynn,0,1,94,28,851,310,65.61,28145.829705
+18,Winter's Tale,2014-02-14 00:00:00,129.0,PG-13,6.2,12.600231,winter's tale,mark helprin,0,1,1,1,2,6,38.44,158.765821253
+25,Still Alice,2015-01-16 00:00:00,101.0,PG-13,7.5,18.754371,still alice,lisa genova,0,1,0,11,0,55,56.25,351.726431606
+3,Something Borrowed,2011-05-06 00:00:00,103.0,PG-13,6.1,39.046489,something borrowed,emily giffin,0,1,1,8,10,96,37.21,1524.62830323
+7,The Lucky One,2012-04-20 00:00:00,101.0,PG-13,6.5,60.457138,the lucky one,nicholas sparks,0,1,7,8,65,65,42.25,3655.06553515
+19,Dark Places,2015-08-07 00:00:00,104.0,R,6.2,0.208588,dark places,gillian flynn,0,1,14,2,55,5,38.44,0.043508953744
+1,The Lincoln Lawyer,2011-03-18 00:00:00,119.0,R,7.3,58.0092,the lincoln lawyer,michael connelly,0,1,0,13,0,122,53.29,3365.06728464
+11,Ender's Game,2013-11-01 00:00:00,114.0,PG-13,6.7,61.737191,ender's game,orson scott card,0,1,13,9,43,69,44.89,3811.48075257
+34,Paper Towns,2015-07-24 00:00:00,109.0,PG-13,6.4,32.000304,paper towns,john green,1,0,122,5,1293,75,40.96,1024.01945609
+22,The Longest Ride,2015-04-10 00:00:00,139.0,PG-13,7.1,37.446117,the longest ride,nicholas sparks,0,1,19,6,135,61,50.41,1402.21167838
+13,Safe Haven,2013-02-14 00:00:00,115.0,PG-13,6.7,71.34912,safe haven,nicholas sparks,0,1,9,9,104,93,44.89,5090.69692477
+15,Flowers in the Attic,1987-11-20 00:00:00,92.0,PG-13,6.1,15.151736,flowers in the attic,v. c. andrews,0,1,0,1,0,3,37.21,229.575103814
+28,The Book Thief,2013-11-08 00:00:00,131.0,PG-13,7.6,21.488481,the book thief,mark zusak,1,0,46,83,449,951,57.76,461.754815687
+30,The Fault in our Stars,2014-06-06 00:00:00,125.0,PG-13,7.8,124.87235,the fault in our stars,john green,1,0,77,64,1118,827,60.84,15593.1037945
+29,One Day,2014-03-21 00:00:00,143.0,PG-13,6.7,150.947895,divergent,veronica roth,1,0,47,0,636,0,44.89,22785.2670049
+33,Me and Earl and the Dying Girl,2015-06-12 00:00:00,104.0,PG-13,7.8,6.758416,me and earl and the dying girl,jesse andrews,1,0,3,11,27,145,60.84,45.6761868291
+0,The Help,2011-08-10 00:00:00,137.0,PG-13,8.1,169.708112,the help,kathryn stockett,0,1,22,35,239,421,65.61,28800.8432786
+14,Addicted,2014-10-10 00:00:00,105.0,R,5.1,17.39077,addicted,zane,0,1,1,1,3,3,26.01,302.438881193
+2,Divergent,2011-08-19 00:00:00,107.0,PG-13,7.0,13.843771,one day,david nicholls,0,1,0,5,0,43,49.0,191.6499955
+10,Admission,2013-03-22 00:00:00,117.0,PG-13,5.7,18.007317,admission,jean hanff korelitz,0,1,0,1,0,1,32.49,324.263465538
+8,One For the Money,2012-01-27 00:00:00,91.0,PG-13,5.3,26.414527,one for the money,janet evanovich,0,1,0,2,0,14,28.09,697.727236634
+9,Silver Linings Playbook,2012-11-16 00:00:00,122.0,R,7.8,132.092958,the silver linings playbook,matthew quick,0,1,0,13,0,41,60.84,17448.5495532
+4,Water for Elephants,2011-04-22 00:00:00,120.0,PG-13,6.9,58.709717,water for elephants,sara gruen,0,1,9,24,114,234,47.61,3446.83087022
+6,Life of Pi,2012-11-21 00:00:00,126.0,PG,8.0,124.987023,life of pi,yann martel,0,1,0,12,0,60,64.0,15621.7559184
+31,If I Stay,2014-08-22 00:00:00,106.0,PG-13,6.8,50.474843,if i stay,gayle forman,1,0,18,38,219,496,46.24,2547.70977587
+12,Labor Day,2014-01-31 00:00:00,111.0,PG-13,6.9,13.371528,labor day,joyce maynard,0,1,0,3,0,18,47.61,178.797761055
+26,The Perks of Being a Wallflower,2012-09-21 00:00:00,103.0,PG-13,8.0,17.742948,the perks of being a wallflower,stephen chbosky,1,0,0,71,0,781,64.0,314.812203731
+23,The Martian,2015-10-02 00:00:00,141.0,PG-13,8.1,228.433663,the martian,andy weir,0,1,16,13,159,157,65.61,52181.9383916
+17,This is Where I Leave You,2014-09-19 00:00:00,103.0,R,6.6,34.29632,this is where i leave you,jonathan tropper,0,1,1,1,6,3,43.56,1176.23756554
+5,Abraham Lincoln: Vampire Hunter,2012-06-22 00:00:00,105.0,R,5.9,37.519139,abraham lincoln: vampire hunter,seth grahame-smith,0,1,0,5,0,24,34.81,1407.6857913

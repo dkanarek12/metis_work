@@ -1,0 +1,24 @@
+# Challenge Set 7
+# Topic: SQL
+# Date: 05/09/16
+# Name: David Kanarek
+# Worked with: other student's name
+
+
+SELECT CustomerName FROM Customers WHERE Country = 'UK'
+
+SELECT CustomerName, COUNT(*) as OrderCount from Customers A JOIN Orders B ON A.CustomerID = B.CustomerID GROUP BY CustomerName ORDER BY OrderCount DESC LIMIT 1
+
+SELECT SupplierName, AVG(PRICE) as Average FROM Suppliers A JOIN Products B ON A.SupplierID=B.SupplierID GROUP BY SupplierName ORDER BY Average desc LIMIT 1
+
+SELECT DISTINCT COUNT(Country) FROM Customers
+
+SELECT CategoryName, COUNT(*) as count FROM Categories D JOIN (SELECT * FROM Products A JOIN OrderDetails B ON A.ProductID=B.ProductID) C ON D.CategoryID = C.CategoryID GROUP BY C.CategoryID ORDER BY count LIMIT 1
+
+SELECT OrderID, SUM(LineItem) as Total FROM (SELECT OrderID, Quantity*Price as LineItem FROM OrderDetails A JOIN Products B on A.ProductID=B.ProductID)GROUP BY OrderID ORDER BY Total DESC LIMIT 1
+
+SELECT LastName, FirstName FROM Employees JOIN (SELECT EmployeeID, SUM(Total) as TotalSales FROM Orders C JOIN (SELECT OrderID, SUM(LineItem) as Total FROM (SELECT OrderID, Quantity*Price as LineItem FROM OrderDetails A JOIN Products B on A.ProductID=B.ProductID)GROUP BY OrderID ORDER BY Total DESC) D ON C.OrderID=D.OrderID GROUP BY EmployeeID ORDER BY TotalSales DESC LIMIT 1) E ON Employees.EmployeeID = E.EmployeeID
+
+SELECT * FROM [Employees] WHERE Notes LIKE '% BS %'
+
+SELECT SupplierName, numProducts, Average FROM (SELECT *, AVG(PRICE) as Average, COUNT(SupplierName) as numProducts FROM Suppliers A JOIN Products B ON A.SupplierID=B.SupplierID GROUP BY SupplierName ORDER BY Average desc)GROUP BY SupplierName HAVING numProducts > 2 ORDER BY Average DESC LIMIT 1

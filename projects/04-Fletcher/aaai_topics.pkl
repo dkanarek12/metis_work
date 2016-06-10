@@ -1,0 +1,46 @@
+(lp0
+S'Novel Machine Learning Algorithms (NMLA)'
+p1
+aS'AI and the Web (AIW)'
+p2
+aS'Game Theory and Economic Paradigms (GTEP)'
+p3
+aS'NLP and Text Mining (NLPTM)'
+p4
+aS'Knowledge Representation and Reasoning (KRR)'
+p5
+aS'Machine Learning Applications (MLA)'
+p6
+aS'Vision (VIS)'
+p7
+aS'NLP and Machine Learning (NLPML)'
+p8
+aS'Heuristic Search and Optimization (HSO)'
+p9
+aS'Search and Constraint Satisfaction (SCS)'
+p10
+aS'Reasoning under Uncertainty (RU)'
+p11
+aS'Planning and Scheduling (PS)'
+p12
+aS'Applications (APP)'
+p13
+aS'Multiagent Systems (MAS)'
+p14
+aS'Computational Sustainability and AI (CSAI)'
+p15
+aS'Cognitive Modeling (CM)'
+p16
+aS'Cognitive Systems (CS)'
+p17
+aS'Humans and AI (HAI)'
+p18
+aS'Robotics (ROB)'
+p19
+aS'Game Playing and Interactive Entertainment (GPIE)'
+p20
+aS'NLP and Knowledge Representation (NLPKR)'
+p21
+aS'Human-Computation and Crowd Sourcing (HCC)'
+p22
+a.

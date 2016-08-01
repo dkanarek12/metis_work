@@ -66,7 +66,7 @@ int
 main(int argc, char **argv)
 {
 	vector<double> acceleration = read_file("training.csv");
-
+	string gesture [5] = { "QUICK","ARM","V","O","TAP" };
     vector<double> training[6];
     for (int i = 0;i<acceleration.size();i++)
     {
@@ -181,9 +181,9 @@ main(int argc, char **argv)
                 min_index = k;
             }
         }
-        if (min_dist < 600)
+        if (min_dist < 800)
         {
-        	cout << min_index << endl;
+        	cout << gesture[min_index] << endl;
         }
 
 

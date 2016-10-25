@@ -4,7 +4,9 @@ without running into walls. The direction labels were provided through the manua
 another consideration was to find the classifier that needed the fewest training example to do so such that the time needed to 
 manually train the robot is the smallest.
 
-3 different sets of features were used:
-1) Readings from all 24 ultrasonic sensors
-2) Readings from 4 zones of sensors (Left,Front,Right,Back)
-3) Readings from 2 zones of sensors(Left,Front)
+3 different sets of features were used:  
+1) Readings from all 24 ultrasonic sensors  
+2) Readings from 4 zones of sensors (Left,Front,Right,Back)  
+3) Readings from 2 zones of sensors(Left,Front)  
+
+The work done for this project can be found in Wall_Following_Robot.ipynb
